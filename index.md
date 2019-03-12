@@ -2,7 +2,7 @@
 title: 關於立川工作室
 feature_text: |
   ## 立川工作室
-  我們專注於網站、網站空間的相關資訊
+  我們專注於網站、網頁空間的相關資訊
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---

@@ -84,8 +84,8 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "立川工作室" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "立川工作室專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。" # Site description and default description, also used in jekyll-seo-tag
+url: "https://www.prgpress.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zivhsiao/zivhsiao.github.io"
 email: "me@daviddarnes.com"
@@ -102,10 +102,10 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  # Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by David Darnes: https://www.prgpress.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
