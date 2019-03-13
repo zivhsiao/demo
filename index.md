@@ -7,90 +7,34 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "立川工作室專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。"
 ---
 
-我們專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。以下是我們的案件的實例。
+我們專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
-## Features
+## 我們的特點
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- PHP 7.0 以上，可以搭配框架進行
+    - PHP 框架 
+        - Laravel：這是最常使用的框架，適合所有的網站，它的優點是快速建立需要的頁面
+        - Codeigniter：這個是小型的框架，易於開發中小型的網站，它的優點是上手比較快
+- 搭配 MeriaDB，這是 MySQL 的另一款資料庫，速度比較快
+- 網頁空間搭配 LINODE，可以很容易升級或降級，它從 5 USD 開始計價
+- 網域是找 GoDaddy 搭配 
 
-## Examples
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+## 實際案例
 
-- [bitpodcast.com](https://bitpodcast.com/)
-- [joelcagedesign.com](https://joelcagedesign.com/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](http://case2111.github.io/)
-- [www.10people.co.uk](http://www.10people.co.uk/)
-- [hrkeni.me](http://hrkeni.me/)
-- [ccs17.bsc.es](https://ccs17.bsc.es/)
-- [karateca.org](http://www.karateca.org/)
+這是我們的實際案例
 
-## Installation
+{% include figure.html href="http://www.jpturbo.com" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_1.png" alt="JPTurbo" %}
 
-### Quick setup
+{% include figure.html href="http://tc.rwdcoman.com" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_3.png" alt="統成蜂巢應用科技" %}
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+{% include figure.html href="http://edcoating.com.tw" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_4.png" alt="盈匠企業" %}
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+{% include figure.html href="http://www.vwg.global" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_5.png" alt="品鑲金葡萄酒" %}
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
+{% include figure.html href="https://www.ho-sua.com" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_6.png" alt="即享傘雨傘租借" %}
 
-### As a Jekyll theme
+{% include figure.html href="ttps://www.baxontech.com" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_9.png" alt="Baxon Tech" %}
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, simply by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're just looking to set your own colours and fonts copy the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file into your project at the same file path (`_sass/_settings.scss`) and change variables however you wish. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+{% include figure.html href="http://reds.com.tw" image="https://github.com/zivhsiao/repo-picture-1/blob/master/images/image_7.png" alt="紅布條設計中心" %}
