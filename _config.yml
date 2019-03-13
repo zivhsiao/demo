@@ -83,7 +83,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "立川工作室" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "https://avatars2.githubusercontent.com/u/1700557" # Site logo, also used in jekyll-seo-tag
 description: "立川工作室專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.prgpress.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -105,24 +105,24 @@ navigation_header:
   # Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://www.prgpress.com
+  Created by 立川工作室: https://www.prgpress.com
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
+social_links: # appears in sidebar. set the urls then uncomment and comment out as desired
+  twitter: https://twitter.com/daviddarnes
+  linkedin: https://www.linkedin.com/in/daviddarnes
+  google+: https://plus.google.com/+daviddarnes
+  github: https://github.com/daviddarnes
   link: https://darn.es
-  RSS: /feed.xml
+  rss: /feed.xml
 
-sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Google+: "#DC4E41"
-  # Pinterest: "#BD081C"
-  # LinkedIn: "#0077B5"
-  # tumblr: "#36465D"
-  # Reddit: "#FF4500"
-  # Hacker News: "#ff6600"
-  # Designer News: "#2D72D9"
-  # Email: ""
+sharing_links: # appear at the bottom of single blog posts, uncomment and comment out as desired. colours set the button colour
+  twitter: "#0d94e7"
+  facebook: "#3b5998"
+  google+: "#dc4e41"
+  # pinterest: "#bd081c"
+  # linkedin: "#0077b5"
+  # tumblr: "#36465d"
+  # reddit: "#ff4500"
+  # hacker news: "#ff6600"
+  # designer news: "#2d72d9"
+  # email: ""
