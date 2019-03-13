@@ -58,17 +58,17 @@ social: # jekyll-seo-tag > social overrides
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+excerpt_separator: <!-- 繼續閱讀 --> # Marks end of excerpt in posts
+timezone: Asia/Taipei # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "我們的創意與想法都在這裏" # The post list page content
     feature_text: |
-      Welcome to the blog
+      歡迎來到我們的部落格/Blog
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -81,7 +81,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: zh-TW # Set the site language
 title: "立川工作室" # Site name or title, also used in jekyll-seo-tag
 logo: "https://avatars2.githubusercontent.com/u/1700557" # Site logo, also used in jekyll-seo-tag
 description: "立川工作室專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。" # Site description and default description, also used in jekyll-seo-tag
