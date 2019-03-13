@@ -108,11 +108,9 @@ navigation_footer:
   Created by 立川工作室: https://www.prgpress.com
 
 social_links: # appears in sidebar. set the urls then uncomment and comment out as desired
-  twitter: https://twitter.com/daviddarnes
-  linkedin: https://www.linkedin.com/in/daviddarnes
-  google+: https://plus.google.com/+daviddarnes
-  github: https://github.com/daviddarnes
-  link: https://darn.es
+  twitter: https://twitter.com/zivhsiao
+  linkedin: https://www.linkedin.com/in/patrick-her
+  github: https://github.com/zivhsiao
   rss: /feed.xml
 
 sharing_links: # appear at the bottom of single blog posts, uncomment and comment out as desired. colours set the button colour
