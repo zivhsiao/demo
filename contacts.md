@@ -82,7 +82,6 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include site-iframe.html %}
 
-{% include site-form.html %}
 
 ``` html
 {% raw %}{% include site-form.html %}{% endraw %}
