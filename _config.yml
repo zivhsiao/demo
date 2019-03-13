@@ -88,7 +88,7 @@ description: "立川工作室專注於網站、網頁空間的相關資訊。網
 url: "https://www.prgpress.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zivhsiao/zivhsiao.github.io"
-email: "me@daviddarnes.com"
+email: "jenfu.developer@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://avatars2.githubusercontent.com/u/1700557" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
@@ -98,7 +98,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   首頁: /
-  Elements: /elements/
+  聯絡我們: /contacts/
   Blog: /blog/
   分類: /categories/
   搜尋: /search/
