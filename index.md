@@ -25,16 +25,16 @@ excerpt: "立川工作室專注於網站、網頁空間的相關資訊。網站�
 
 這是我們的實際案例
 
-{% include figure.html href="http://www.jpturbo.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_1.png" alt="JPTurbo" %}
+{% include figure.html href="http://www.jpturbo.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_1.png" width="100%" height="800" alt="JPTurbo" %}
 
-{% include figure.html href="http://tc.rwdcoman.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_3.png" alt="統成蜂巢應用科技" %}
+{% include figure.html href="http://tc.rwdcoman.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_3.png" width="100%" height="800" alt="統成蜂巢應用科技" %}
 
-{% include figure.html href="http://edcoating.com.tw" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_4.png" alt="盈匠企業" %}
+{% include figure.html href="http://edcoating.com.tw" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_4.png" width="100%" height="800" alt="盈匠企業" %}
 
 {% include figure.html href="http://www.vwg.global" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_5.png" alt="品鑲金葡萄酒" %}
 
-{% include figure.html href="https://www.ho-sua.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_6.png" alt="即享傘雨傘租借" %}
+{% include figure.html href="https://www.ho-sua.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_6.png" width="100%" height="800" alt="即享傘雨傘租借" %}
 
-{% include figure.html href="ttps://www.baxontech.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_9.png" alt="Baxon Tech" %}
+{% include figure.html href="ttps://www.baxontech.com" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_9.png" width="100%" height="800" alt="Baxon Tech" %}
 
-{% include figure.html href="http://reds.com.tw" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_7.png" alt="紅布條設計中心" %}
+{% include figure.html href="http://reds.com.tw" image="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_7.png" width="100%" height="800" alt="紅布條設計中心" %}
