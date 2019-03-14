@@ -14,4 +14,4 @@ aside: true
 
 ### 我的地址
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="立川工作室" %}
