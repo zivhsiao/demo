@@ -7,10 +7,17 @@ excerpt: "如果您對我們有任何的建議或批評，我們非常歡迎您�
 aside: true
 ---
 
-### 聯絡我們
+## 聯絡我們
+
+可以寫信件給我們，或者直接線上填寫表單，我們將在最短時間聯絡你，謝謝！
+
+### 我的基本資料
+- Email：jenfu.developer@gmail.com
+- Tel：0922-013-171
+
+### 聯絡我們的表單
 
 {% include site-iframe.html %}
-
 
 ### 我的地址
 
