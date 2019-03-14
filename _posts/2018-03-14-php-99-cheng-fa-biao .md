@@ -3,7 +3,7 @@ title: PHP 的 99 乘法表
 categories:
 - PHP
 excerpt: |
-  PHP 的 99 乘法表，很簡單
+  PHP 的 99 乘法表，對於新手，這是很簡單的事
 feature_text: |
   # PHP 的 99 乘法表
   99 乘法表
