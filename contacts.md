@@ -17,6 +17,6 @@ aside: true
 
 {% include site-iframe.html %}
 
-### 我的地址
+### 我們的地址
 
 {% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="立川工作室" %}
