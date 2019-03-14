@@ -2,8 +2,13 @@
 title: 在 GitHub 架設網頁
 categories:
 - 網頁
+excerpt: |
+  爲何要用 GitHub？因爲它只能夠推送出去的都是靜態檔案，所以比較快 (應該是超快的 :D)
 feature_text: |
+  # GitHub 架設網頁
   在 GitHub 上面，如何可以架設網頁
+feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/alphabets_1920x1280.jpeg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/alphabets_1920x1280.jpeg"  
 ---
 
 GitHub 是一個讓 Git 使用的版本控制的代管服務公司 
