@@ -63,7 +63,7 @@ timezone: Asia/Taipei # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: 發表的文章 # Needed for Siteleaf
     output: true
     description: "我們的創意與想法都在這裏" # The post list page content
     feature_text: |
