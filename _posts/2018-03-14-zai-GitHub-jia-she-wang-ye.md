@@ -7,8 +7,8 @@ excerpt: |
 feature_text: |
   # GitHub 架設網頁
   在 GitHub 上面，如何可以架設網頁
-feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/alphabets_1920x1280.jpeg"  
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/alphabets_1920x1280.jpeg"  
+feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
 ---
 
 GitHub 是一個讓 Git 使用的版本控制的代管服務公司 

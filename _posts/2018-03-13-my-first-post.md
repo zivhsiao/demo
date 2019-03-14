@@ -7,8 +7,8 @@ excerpt: |
 feature_text: |
   # 第一次用 MarkDown 寫的文章
   這是我第一次用 MarkDown 寫的文章
-feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/alphabets_1920x1280.jpeg" 
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/alphabets_1920x1280.jpeg"  
+feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg" 
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
 ---
 
 這是我第一次開始用 MarkDown 寫的文章，剛開始慢慢去做起來，大概合計起來總共半個工作天，其實這花了我比較多的時間在 GitHub 上面，然後研究它的 Custom domain 的使用方法
