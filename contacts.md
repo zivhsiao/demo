@@ -10,8 +10,8 @@ aside: true
 您可以寫信件給我們，或者直接線上填寫表單，我們將在最短時間回覆您，謝謝！
 
 ### 聯絡我們的資料
-- Email：jenfu.developer@gmail.com
-- Tel：0922-013-171
+ - Email：jenfu.developer@gmail.com
+ - Tel：0922-013-171
 
 ### 聯絡我們的表單
 
