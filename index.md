@@ -3,7 +3,7 @@ title: 關於立川工作室
 feature_text: |
   ## 立川工作室
   我們專注於網站、網頁空間的相關資訊
-feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/dose-media-424257-unsplash%20(1).jpg"
+feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/dose-media-424257-unsplash.jpg"
 excerpt: "立川工作室專注於網站、網頁空間的相關資訊。網站剛剛起步，卻沒有資訊相關人員？或者你不知道如何架一個網站？我們都可以幫助你架設網站。"
 ---
 
