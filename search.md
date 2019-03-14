@@ -1,6 +1,6 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: 搜尋
+excerpt: "搜尋你想要看的文章的標題或內容"
 ---
 
 {% include site-search.html %}
