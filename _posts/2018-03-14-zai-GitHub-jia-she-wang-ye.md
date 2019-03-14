@@ -1,16 +1,16 @@
 ---
 title: 在 GitHub 架設網頁
 categories:
-- 一般事項
+- 網頁
 feature_text: |
   在 GitHub 上面，如何可以架設網頁
 ---
 
-## GitHub 是一個讓 Git 使用的版本控制的代管服務公司 
+#### GitHub 是一個讓 Git 使用的版本控制的代管服務公司 
 
 這裏是它的介紹 [GitHub](https://zh.wikipedia.org/wiki/GitHub)
 
-## 爲何要用 GitHub ？
+#### 爲何要用 GitHub ？
 
 因爲它只能夠推送出去的都是靜態檔案，所以比較快 (應該是超快的 :D)
 
