@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/thomas-martinsen-2443-unsplash.jpg" # Default image for sharing
+      image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/thomas-martinsen-2443-unsplash.jpg" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
