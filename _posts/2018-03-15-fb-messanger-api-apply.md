@@ -91,4 +91,9 @@ curl_exec($ch);
 curl_close($ch);
 ```
 
+### 回傳的畫面
+
+是不是很簡單
+![回傳的畫面](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/facebook_api/IMG_2201.png)
+
 這樣就結束了，是否寫的還算可以呢？
