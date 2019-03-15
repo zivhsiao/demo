@@ -112,7 +112,7 @@ social_links: # appears in sidebar. set the urls then uncomment and comment out 
   github: https://github.com/zivhsiao
   rss: /feed.xml
 
-sharing_links: # appear at the bottom of single blog posts, uncomment and comment out as desired. colours set the button colour
+# sharing_links: # appear at the bottom of single blog posts, uncomment and comment out as desired. colours set the button colour
   # twitter: "#0d94e7"
   # facebook: "#3b5998"
   # google+: "#dc4e41"
