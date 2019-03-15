@@ -3,15 +3,15 @@
   {% if paginator.previous_page %}
     <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="pagination  pagination--previous">&larr; Newer</a>
   {% else %}
-    <span class="pagination  pagination--previous">&larr; Newer</span>
+    <span class="pagination  pagination--previous">&larr; 新的</span>
   {% endif %}
 
-  <span class="pagination  pagination--counter">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="pagination  pagination--counter">現在第 {{ paginator.page }} 頁 / 共 {{ paginator.total_pages }} 頁</span>
 
   {% if paginator.next_page %}
     <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="pagination  pagination--next">Older &rarr;</a>
   {% else %}
-    <span class="pagination  pagination--next">Older &rarr;</span>
+    <span class="pagination  pagination--next">舊的 &rarr;</span>
   {% endif %}
 
 </nav>
