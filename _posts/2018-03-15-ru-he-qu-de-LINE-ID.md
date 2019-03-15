@@ -1,5 +1,5 @@
 ---
-title: 如何可以取到 LINE 的 ID
+title: 如何可以取得 LINE 的 ID
 categories:
 - LINE
 excerpt: |
