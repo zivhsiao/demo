@@ -82,8 +82,15 @@ if(!empty($resEntities['greetings'][0]['value'])){
 if(!empty($resEntities['location'][0]['value'])){
     $answer =  $resEntities['location'][0]['value'];
 }
+```
 
-// city 
+下面的這一段是問「城市」以及「氣溫」、「天氣」的問題，以及問「做什麼」的問題，做的回覆，當然要如何讓 wit.ai 提供一些不同的答案，要自己去看 wit.ai 的教學
+
+- [TechBridge 技術共筆部落格](https://blog.techbridge.cc/2016/07/02/ChatBot-with-Wit/)
+- [手把手教你變出聊天機器人](https://buzzorange.com/techorange/2018/03/15/write-your-own-chatbot/)
+- [建立聊天機器人：以Wit.ai為例(Building a Chatbot with Wit.ai)](https://yunlinsong.blogspot.com/2018/01/witai.html)
+
+```php
 $city_array = [
     "宜蘭縣", "花蓮縣", "臺東縣",
     "澎湖縣", "金門縣", "連江縣",
@@ -114,13 +121,20 @@ if(!empty($resEntities['default_city'][0]['value'])){
 if(!empty($resEntities['do_what'][0]['value'])){
     $answer = "您好，這是聊天機器人，負責天氣預報，你可以問我「天氣如何？」、「新竹市天氣怎麼樣」之類的話題";
 }
+```
 
+這裏是沒有正確的答案，就直接輸出「您好，我不太瞭解您所提出的問題！」或者你想要回答的答案就好了
 
+```php
 if(empty($answer)){
     $answer = '您好，我不太瞭解您所提出的問題！';
 }
+```
+
+最後要要輸出 message，就完成了 
 
 
+```php
 $response = [
     'recipient' => [ 'id' => $senderId ],
     'message' => [ 'text' => $answer ]
@@ -129,5 +143,14 @@ $response = [
 $messageToBot = new MessageToBot;
 $fbMessage = $messageToBot->FB($accessToken, $response);
 ```
+
+#### 看一下我做的，這是第一張圖片
+
+![LINE 機器人-1](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_bot/IMG_2206.png)
+
+#### 第二張圖片
+
+![LINE 機器人-1](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_bot/IMG_2207.png)
+
 
 覺得寫的過程還算簡單，這個 FB Messanger 也複製相同的一份，內容稍微修改就好了
