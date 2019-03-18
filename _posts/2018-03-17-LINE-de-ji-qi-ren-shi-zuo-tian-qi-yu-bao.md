@@ -155,6 +155,14 @@ $fbMessage = $messageToBot->FB($accessToken, $response);
 
 覺得寫的過程還算簡單，這個 FB Messanger 也複製相同的一份，內容稍微修改就好了
 
+## LINE@
+
 如果覺得不錯的話，麻煩請用 LINE 加入好友 -> 行動條碼，直接掃描下方的圖片就可以了，謝謝！
 
 ![QRCode](http://qr-official.line.me/L/7EtAal7yUk.png)
+
+## Facebook Messenger
+
+FB 的用戶，直接用以下的連結 -> 看到"發送訊息" 按下去即可使用
+
+[天氣預報](https://www.facebook.com/%E5%A4%A9%E6%B0%A3%E9%A0%90%E5%A0%B1-909370822728281)
