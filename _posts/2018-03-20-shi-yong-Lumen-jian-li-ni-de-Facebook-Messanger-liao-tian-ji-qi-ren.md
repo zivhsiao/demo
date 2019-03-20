@@ -6,7 +6,7 @@ excerpt: |
   使用 Lumen 建立一個屬於你的 Facebook Messanger 的機器人，所有的回答都要看你如何做了，它實際是回應機器人，只要有問，它一定就有回應，中間的做法看你是用 wit.ai 或者 dialogflow 都可以，做法可以有很多，至少不會太單調
 feature_text: |
   # Lumen 建立一個 Facebook Messenger 機器人
-  別忘了 header 要給它送出喔
+  
 feature_image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg" 
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/facebook_api/1_ADfT0WNAGLxu0wv1IGqOTQ.png"  
 ---
