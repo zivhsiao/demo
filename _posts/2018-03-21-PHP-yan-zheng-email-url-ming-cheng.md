@@ -13,7 +13,6 @@ image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/
 
 PHP 驗證 Email、URL 以及名稱，這裏使用的是正規表示法以及 filter_var 來達成驗證
 
-
 <!-- more -->
 
 ### PHP - 驗證名稱
