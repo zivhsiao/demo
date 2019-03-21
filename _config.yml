@@ -97,7 +97,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   首頁: /
-  Blog: /blog/
+  部落格: /blog/
   分類: /categories/
   聯絡我們: /contacts/
   搜尋: /search/
